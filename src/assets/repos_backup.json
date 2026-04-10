@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "PORTAL-MEDICINA",
+    "description": "Portal para calendario académico y gestión médica.",
+    "language": "JavaScript",
+    "html_url": "https://github.com/defcarlosasnp/portal-medicina"
+  },
+  {
+    "id": 2,
+    "name": "PEUMAYEN-SPA",
+    "description": "Desarrollo web para gestión de servicios.",
+    "language": "HTML",
+    "html_url": "https://github.com/defcarlosasnp/Peumayen-spa"
+  },
+  {
+    "id": 3,
+    "name": "E-COMMERCE",
+    "description": "Prueba técnica de plataforma de ventas.",
+    "language": "PHP",
+    "html_url": "https://github.com/defcarlosasnp/e-commerce"
+  },
+    {
+    "id": 4,
+    "name": "PORTAFOLIO",
+    "description": "Portafolio academico.",
+    "language": "Python",
+    "html_url": "https://defcarlosasnp.github.io/portafolio/"
+  }
+]
